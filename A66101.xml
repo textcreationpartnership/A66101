@@ -1,0 +1,463 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The high esteem which God hath of the death of his saints as it was delivered in a sermon preached October 7, 1683, occasioned by the death of the worshipful John Hull, Esq. who deceased October 1, 1683 / by Samuel Willard.</title>
+            <author>Willard, Samuel, 1640-1707.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 42 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66101</idno>
+            <idno type="STC">Wing W2280</idno>
+            <idno type="STC">ESTC R27592</idno>
+            <idno type="EEBO-CITATION">09976961</idno>
+            <idno type="OCLC">ocm 09976961</idno>
+            <idno type="VID">44423</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66101)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44423)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1346:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The high esteem which God hath of the death of his saints as it was delivered in a sermon preached October 7, 1683, occasioned by the death of the worshipful John Hull, Esq. who deceased October 1, 1683 / by Samuel Willard.</title>
+                  <author>Willard, Samuel, 1640-1707.</author>
+                  <author>Corlet, Elijah, d. 1687.</author>
+               </titleStmt>
+               <extent>20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Samuel Green for Samuel Sewall,</publisher>
+                  <pubPlace>Boston :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"In obitum luctuosissimum viri vere generosi, pii, plurimisq, aliis nominibus Honorandi Johannis Hull" (p. 19-20) in verse, signed: Elijah Corlet.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hull, John, 1624-1683 --  Sermons.</term>
+               <term>Funeral sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:44423:1"/>
+            <pb facs="tcp:44423:1" rendition="simple:additions"/>
+            <p>THE HIGH ESTEEM <hi>Which God hath of the Death of his</hi> SAINTS.</p>
+            <p>As it was Delivered in a SERMON Preached <hi>October</hi> 7. 1683. Occaſioned by the Death of the Worſhipful John Hull Eſq: Who Deceaſed <hi>October</hi> 1. 1683.</p>
+            <p>By <hi>Samuel Willard</hi> Teacher to a Church in <hi>Boſton.</hi>
+            </p>
+            <q>
+               <bibl>Numb. 23. 10.</bibl> 
+               <hi>Let me die the Death of the Righteous and let my laſt end be like his.</hi>
+            </q>
+            <q>De Imperatore <hi>Theodoſio</hi> fertur magis ſe gaudere quod membrum eccleſiae Dei eſſet, quam caput imperii. <bibl>
+                  <hi>Aug.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>Boſton</hi> in <hi>New-England</hi> Printed by <hi>Samuel Green</hi> for <hi>Samuel Sewall:</hi> 1683.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:44423:2"/>
+            <pb n="1" facs="tcp:44423:2"/>
+            <epigraph>
+               <bibl>PSAL. 116. 15.</bibl>
+               <q>Precious in the ſight of the Lord is the Death of his Saints.</q>
+            </epigraph>
+            <p>THis pſalm is wholly Euchariſtical; the Pſalmiſts ſcope being to profeſs his endeared love to God, and to excite himſelf to a grateful acknowledgement of all thoſe Engagements which were lying upon him to expreſs this Love of his in true Thankfulneſs for all thoſe Kindneſſes which he had made him the Subject of: Hence there are two things which he here endeavours.</p>
+            <p n="1">1. A ſummary recital of the grounds and reaſons of this Profeſſion, or, what it was that God had ſo deeply obliged him by, Expreſſed, Enlarged, Aggravated to <hi>ver.</hi> 12.</p>
+            <p n="2">2. An earneſt Endeavour to Affect and Engage his heart unto ſuitable gratitude, from hence to the end of the Pſalm; wherein he ſtudies and promiſeth to let it be ſeen that he was not ſtupidly regardleſs of, but ſutably affected with theſe won<g ref="char:EOLhyphen"/>drous benefits of God towards him: where, while he is bind<g ref="char:EOLhyphen"/>ing of himſelf to the payment and performance of ſacred and ſolemn expreſſions of Thanksgiving, and particular Teſtimo<g ref="char:EOLhyphen"/>nies of a thankful heart, he draws the knot cloſe, and makes it more indiſſoluble, by reviving the Arguments or Obligati<g ref="char:EOLhyphen"/>ons lying upon him, or by chewing upon the conſideration of the endeared Love of God diſcovering it ſelf, both to his Peo<g ref="char:EOLhyphen"/>ple in general, <hi>ver.</hi> 15. and to himſelf in particular, <hi>ver.</hi> 16.</p>
+            <pb n="2" facs="tcp:44423:3"/>
+            <p>So that the Words of the Text are a lofty Expreſſion of the deep Intereſt which the Saints have in Gods affection, or the high eſteem which he conceives of them, who dearly loves them, and that not only whiles living, but when dying too.</p>
+            <p>In the Words there are two parts,</p>
+            <p n="1">1. The Subject about which the Aſſertion is; The Death of Gods Saints: ſuch a Subject is preſumed, for the Scripture doth not pronounce or expreſs the condition of non-entities: And hence we gather theſe three Concluſions.</p>
+            <p n="1">1. God hath his Saints in the World; as evil and degenerate as the World is grown, yet there are ſome Holy Men in it. It is true there is none ſo holy here as to live without ſin; but there are ſome that are ſo pure, as to be undefiled in God's eye and eſteem, <hi>Numb. 23. 21. God hath ſeen no iniquity in Jacob. Pſal. 119. 1. Bleſſed are the undefiled:</hi> The Word uſed in our Text, for <hi>Saints</hi> ſignifies properly one that is precious, kind, bountiful and merciful. The Subſtantive is moſt commonly uſed for Mercy, or pity; and this Word in our <hi>Text</hi> is Tranſ<g ref="char:EOLhyphen"/>lated <hi>Merciful,</hi> Iſai. 57. 1. and ſo divers read it here, <hi>his merci<g ref="char:EOLhyphen"/>ful ones:</hi> others read it, <hi>his beneficent ones,</hi> much to the ſame purpoſe: But the <hi>Septuagint</hi> for the moſt part tranſlate the Word by <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> which ſignifies a <hi>Saint</hi> or <hi>an Holy one,</hi> and ſo they do in this place, Hence, as ſome obſerve, the Poſterity of <hi>Jonadab,</hi> the Son of <hi>Rechab,</hi> were, by reaſon of their ſtrict<g ref="char:EOLhyphen"/>neſs or ſeverity of Life, called <hi>Haſſidim,</hi> which is the Word uſed in the Text.</p>
+            <p n="2">2. God's Saints muſt dye. It were ſuperfluous to decipher their happineſs in Death, if they were not appointed to be the Subjects of it: the moſt ſtrict, holy and Exemplary Life of the People of God is no Bail againſt a bodily death, although Gods Love be ſuch to them, that he will take effectual care a<g ref="char:EOLhyphen"/>bout their dying well; yet it is his holy pleaſure that they ſhall taſt of that Cup and meet with that common Lot of the chil<g ref="char:EOLhyphen"/>dren of Men; <hi>Pſal. 89. 48. What Man is he that liveth, and ſhall not ſee Death? ſhall he deliver his Soul from the hand of the</hi>
+               <pb n="3" facs="tcp:44423:3"/> 
+               <hi>Grave?</hi> and hence we learn, that Death is not in it ſelf a thing ſo formidable as Men think it to be, but only the manner of dying; it is no hurt to die if we die Saints.</p>
+            <p n="3">3. The <hi>Saints</hi> have a priviledge above other Men in their Death: what this priviledge is will follow; that there is ſuch a thing, the limitation of the general Subject, <hi>Death,</hi> to this particular Subject, <hi>Saints,</hi> in diſpoſing of it to be capable of the enſuing predication, evidenceth. When the Pſalmiſt hath ſomething worthy and excellent to ſay about Death, he reſtrains and bounds it in the <hi>Saints,</hi> q. d. all Men die, but all do not thus die, this is not a common priviledge which I am ſpeaking of, but it is appropriated to the Saints of God. Hence, all that would have any advantage above other Men in their dying, muſt make it their great care and endeavour whiles they are living to be <hi>Saints.</hi>
+            </p>
+            <p n="2">2. The Predicate of this Subject: <hi>It is precious in the ſight of God;</hi> and here is a double excellency of the <hi>Saints</hi> Death diſcovered, <hi>viz.</hi>
+            </p>
+            <p n="1">1. Innate or real; in it ſelf it is precious: for God doth not eſteem of things otherwiſe then they really are; when we hear that he reckons them ſo, we may conclude that they muſt be ſo indeed: the word ſignifies, weighty, honourable, precious, dear and rare. Death which is in it ſelf an evil thing, when it befalls a Child of God, becomes a thing of ve<g ref="char:EOLhyphen"/>ry great worth.</p>
+            <p n="2">2. In Eſtimation, and that of him who beſt knows what eſteem to put upon things, <hi>viz.</hi> God himſelf; he doth not tell us that it is ſo in the ſight of Men; for their judgement and verdict would not ſufficiently determine the queſtion; for, as for wicked men, they account the <hi>Saints lives</hi> to be contem<g ref="char:EOLhyphen"/>ptible, and their Death inglorious: and as for good men they are fallible, liable to miſtakes; and hence their judgement is not by it ſelf ſatisfying to Faith, nor may we build any concluſion upon the credit of the beſt of men: but God judgeth aright, he knows and ſpeaks the truth, and his teſte<g ref="char:EOLhyphen"/>mony
+<pb n="4" facs="tcp:44423:4"/> is to be taken: the Phraſe <hi>[In the ſight]</hi> ſignifies the judgement, knowledge, and account: <hi>q. d.</hi> thus it is to God, he who ſees all things, and diſcerns their iſſues, he reckons it to be ſo: There are divers thoughts among <hi>Interpreters</hi> a<g ref="char:EOLhyphen"/>bout the meaning of this Expreſſion, or in what ſence the Pſalmiſt intends that their death is precious in the ſight of God, which what it is moſt likely to be, will follow to be con<g ref="char:EOLhyphen"/>ſidered: Hence;</p>
+            <p>Doct. <hi>The Death of God's Saints is in his account or eſteem a thing very precious:</hi>
+            </p>
+            <p>God ſets an high price, not only upon the <hi>Lives,</hi> but upon the <hi>Deaths</hi> too of his Children: they are dear and honoura<g ref="char:EOLhyphen"/>ble to him, not living only, but dying alſo.</p>
+            <p>For the clearing up of this Truth we may conſider: 1. Who are thoſe <hi>Saints</hi> of God of whom this is aſſerted? 2. What is implied in their Death, <hi>being precious in Gods ſight?</hi> 3. Whence it comes to paſs that it is ſo?</p>
+            <p n="1">1. <hi>Who are thoſe Saints whoſe death is thus precious?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> I have already hinted the meaning of the Word, and ſhall not need to make many Diſcourſes upon the thing, or enter a treatiſe about the quality and kind of Sanctity. There is none on this ſide the Grave is ſo holy, but to have in him ſome defilement, none ſo clean but there may be ſome ſpots and blemiſhes found in him, <hi>Eccleſ. 7. 20. There is not a juſt Man upon Earth that doth good and ſinneth not:</hi> But a Saint in a Goſpel ſence may be deſcribed to be One who being powerfully wrought upon in effectual vocation, and therein converted throughly unto God, hath the Grace of Sanctifi<g ref="char:EOLhyphen"/>cation wrought in him, and the Spirit of Holineſs given to him, to dwell in him, and to purge his Heart and Conſci<g ref="char:EOLhyphen"/>ence. There are <hi>Saints</hi> in Heaven, and they are juſt Men made perfect; and there are <hi>Saints</hi> on the Earth too, <hi>Pſal. 16. 3. To the Saints that are in the Earth:</hi> and theſe though not at preſent perfected, are yet perfecting. They are ſuch
+<pb n="5" facs="tcp:44423:4"/> whom the Grace of God hath taught in part, and is daily further teaching thoſe Leſſons, <hi>Tit. 2. 11, 12. To deny ungodli<g ref="char:EOLhyphen"/>neſs and worldly Luſts, and to live Soberly, Righteouſly, and Godly in this preſent world.</hi> They do not ly wallowing in the mire of Sin, nor delighting themſelves in ſuch courſes as are provoking to God; but are in heart, ſoul and ſpirit devoted unto him and his ſervice, ſeeking his honour, ſtu<g ref="char:EOLhyphen"/>dying his glory, contriving how they may beſt ſerve their Ge<g ref="char:EOLhyphen"/>neration to his praiſe. In a word, every one that by the po<g ref="char:EOLhyphen"/>wer of Gods Spirit is taken out of the World, and made a true Believer, is alſo a Saint in an Evangelical account: Converſion and Sanctification go together inſeparably: Ef<g ref="char:EOLhyphen"/>fectual vocation both deſigns and produceth Sanctification, <hi>1 Cor. 1. 2. Called to be Saints,</hi> and ſuch as theſe are, are there<g ref="char:EOLhyphen"/>fore called the Saints of God.</p>
+            <p n="1">1. Becauſe God hath choſen and ſeparated them for him<g ref="char:EOLhyphen"/>ſelf, and his own ſervice: <hi>Pſal. 4. 3. Know that the Lord hath ſet apart him that is godly for himſelf:</hi> He hath taken them out of the World, and conſecrated them to an higher and more noble Imployment than ſuch as the reſt of Man-kind are engaged in: now whatſoever is devoted to any ſpecial ſervice of God, is therein ſaid to be Sanctified; for to ſancti<g ref="char:EOLhyphen"/>fie, is to ſeparate from common, and dedicate to ſpecial, di<g ref="char:EOLhyphen"/>vine uſe and ſervices: upon this account the Tabernacle and Temple, the Altar, the Veſſels, the Prieſts, the Levites, the People of <hi>Iſrael</hi> were accounted Holy, and the more ſepara<g ref="char:EOLhyphen"/>ted they were, the more holy were they reputed to be.</p>
+            <p n="2">2. Becauſe they ſtand nearly related to Chriſt's Holineſs; not only Chriſts Righteouſneſs, as it ſtands to anſwer the Law for them in way of Juſtification, is imputed unto them; but his Holineſs alſo is imputed unto them for Sanctification; there is a relative Sanctity upon every true Believer; and hence Chriſt is ſaid to be made unto them <hi>Sanctification, 1 Cor. 1. 30.</hi> the precious Prieſts Robes of their elder Brother are put upon them. In the Ceremonial
+<pb n="6" facs="tcp:44423:5"/> Law, the Water of Purification, by being ſprinkled upon the perſons and inſtruments that were for the ſervice of the Sanctuary, Sanctified them: thus the blood of Chriſt ſprink<g ref="char:EOLhyphen"/>led upon a Child of God, renders him pure in God's Holy Eyes.</p>
+            <p n="3">3. Becauſe they have the inchoations of inherent <hi>Sanctity</hi> in them: there is a real formal Holineſs in every true Be<g ref="char:EOLhyphen"/>liever, and though imperfect in degrees, yet perfect in parts: the Holy Spirit of God given to, and dwelling in the People of God, works them up to a Conformity to himſelf, and ren<g ref="char:EOLhyphen"/>ders them like unto the Holy God; and hence it is, that Be<g ref="char:EOLhyphen"/>lievers are ſaid to be <hi>partakers of the divine nature,</hi> 1 Pet. 1. 4. the Lord Jeſus Chriſt hath wrought them up unto Holineſs, Hence that 1 <hi>Theſſ. 4. 3. For this is the Will of God, even your Sanctification,</hi> and that verſe 7. <hi>For God hath not called us unto <g ref="char:V">Ʋ</g>ncleanneſs, but unto Holineſs.</hi>
+            </p>
+            <p n="4">4. Becauſe they are growing up to, and deſigned for per<g ref="char:EOLhyphen"/>fection of Holineſs: Grace inherent is Holineſs begun, and founded in the Believer, but they grow in it, <hi>Pſal. 92. 12, 13. The Righteous ſhall flouriſh</hi> &amp;c. and as the Lord Jeſus Chriſt hath laid the foundation in them by effectual vocation, ſo his intention is to fit them up for himſelf, ſo as that they ſhall be every way like unto him, and this is by making them to be without ſpot or wrinkle, <hi>Eph.</hi> 5. 27.</p>
+            <p n="2">2. <hi>What is implied in their Death being precious in the ſight of God? or wherein he makes it appear ſo to be?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> 1. Negatively; we are not to ſuppoſe that God takes delight in putting of his Servants to Death; or that their Death, as ſuch contents him, or is a pleaſure to him; Death in its own nature is an evil; it is the fruit of the Curſe brought in by ſin, and for God, to will Death as ſo to his People, were not an expreſſion of his Love, but Diſplea<g ref="char:EOLhyphen"/>ſure; But,</p>
+            <p n="2">2. Poſitively; and here Obſerve,</p>
+            <p n="1">1. Some read the Word here <hi>[Heavy]</hi> and take the
+<pb n="7" facs="tcp:44423:5"/> meaning to be, that God takes the Death of his <hi>Saints,</hi> eſpe<g ref="char:EOLhyphen"/>cially; when it is procured by the means of their Enemies, very grievouſly or heavily; it is ſuch a thing as he cannot tell how to bear: and that <hi>David</hi> ſpeaks this of own ex<g ref="char:EOLhyphen"/>perience: for when <hi>Saul,</hi> when <hi>Abſalom,</hi> when <hi>Achitophel,</hi> had contrived his Death, and ſought wayes how they might effect it, God was very angry, and would not ſuffer it; yea, manifeſtly diſcovered his deepeſt diſpleaſure againſt them, in that by ſignal judgements he deſtroyed each of them.</p>
+            <p n="2">2. Others read it <hi>[Rare and Dear]</hi> and underſtand it, that, becauſe ſuch things as are dear to us, we are not wont to leave or commit to the diſpoſe of others; therefore <hi>Da<g ref="char:EOLhyphen"/>vid</hi> intends, that God doth not eaſily or often grant Wicked Men their deſires upon his <hi>Saints,</hi> or ſuffer them to take a<g ref="char:EOLhyphen"/>way their lives; and that <hi>David</hi> draws this general Conclu<g ref="char:EOLhyphen"/>ſion to comfort others withal, from the great Experience which he had had of manifold and ſtrange Deliverances: But,</p>
+            <p n="3">3. The moſt comprehenſive meaning of this Expreſſion may be this, <hi>viz.</hi> That God takes as ſpecial and weighty care about the Death of his <hi>Saints,</hi> as men are wont to do a<g ref="char:EOLhyphen"/>bout thoſe things that are of greateſt worth and value in their eſteem: the <hi>Septuagint</hi> Tranſlateth it by <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Ho<g ref="char:EOLhyphen"/>nourable, intimating that God puts great honour upon his dying <hi>Saints;</hi> And this eſteem diſcovers it ſelf:</p>
+            <p n="4">4. <hi>In his all-wiſe and careful timing of their Death:</hi> He takes order that his People ſhall alwayes die in the beſt time for them: it may be a bad time for the World to loſe them in, but it is a good time for them to leave it in. Hence,</p>
+            <p n="1">1. <hi>Till the fit time is come, He ſecures their Lives for them, and that oftentimes almoſt miraculouſly: ſo that all the Malice, Rage, Spite and Power of their Enemies ſhall not be able to ef<g ref="char:EOLhyphen"/>fect it; and whiles they are thus laying their heads together, plot<g ref="char:EOLhyphen"/>ting and contriving how to bring it about. God laughs at them,</hi> Pſal. 37. 12, 13. <hi>The Wicked plots againſt the Juſt—The</hi>
+               <pb n="8" facs="tcp:44423:6"/> 
+               <hi>Lord ſhall laugh at him.</hi> How many conſultations and en<g ref="char:EOLhyphen"/>deavours were there againſt the Life of <hi>Athanaſius</hi> of old and of <hi>Luther</hi> in later times, and yet they could not obtain to cut ſhort one of their dayes appointed.</p>
+            <p n="2">2. <hi>When their fit time is come, and they are prepared for it:</hi> God mercifully taketh order about their dying and makes their Death to be ſuch, as it ſhall be a full witneſs of his deareſt reſpect unto them; and hence we may obſerve a threefold circumſtance of the time of the <hi>Saints</hi> dying; one of which is alwayes accommodable thereunto: God there<g ref="char:EOLhyphen"/>fore takes them away, either,</p>
+            <p n="1">1. <hi>When they are deſpiſed or undervalued in the World:</hi> when Men grow weary of them, and their company is a trouble to them; now God will not ſuffer them to be trou<g ref="char:EOLhyphen"/>bled with them any longer, but ſends to fetch them away to a place where they are better thought of, and ſhall meet with more worthy entertainment. It is Recorded of thoſe Worthies, <hi>Heb. 11. 38. That the World was not worthy of them;</hi> they were too good for them, and they did not know their Excellency, and therefore thought meanly of them; and now God will not let them enjoy them any longer, he calls them home.</p>
+            <p n="2">2. <hi>When there are evil and calamitous times: haſteniug upon the place where they live:</hi> they <hi>are taken away from the wrath to come,</hi> Iſai. 57. 1. God now takes them off, and this he doth not only to make a way for his wrath, by taking them out of the Gap, where they ſtood to prevent ruine; but alſo to free them from thoſe Sorrows and diſtreſſing Calamities which elſe they muſt needs undergo: this was a mercy pro<g ref="char:EOLhyphen"/>miſed to tender-hearted <hi>Joſiah,</hi> 2 King. 22. <hi>ult. Thou ſhalt be gathered to thy Fathers in peace, and thine eyes ſhall not ſee all the evil which I will bring upon this place.</hi>
+            </p>
+            <p n="3">3. <hi>When they have done the work of their Generation:</hi> God hath in his holy Decree laid out what work every one of his Saints ſhall do for him in this World; and a Saint would not
+<pb n="9" facs="tcp:44423:6"/> deſire to be here any longer than he hath ſome work to do for God; Hence, when they have finiſhed their courſe, he brings them to the Crown: thus we read of <hi>David,</hi> Act. 13. 36. <hi>When he had ſerved his own Generation, by the Will of God, he fell aſleep.</hi> When a Believers work is done, its his priviledge to go to reſt.</p>
+            <p n="2">2. <hi>In his ſpecial care about the manner of their Death:</hi> For,</p>
+            <p n="1">1. <hi>He affords them his ſpecial preſence to carry them through all the conflicts which they have with Death, and with all their Enemies, who in that hour aſſault them.</hi> He makes all their Bed for them in their ſickneſs, he viſits them with his Holy Spirit, comforteth and refreſheth them againſt all their fears, bruiſeth Satan for them under their feet, ſends his Angels to ſtrengthen them againſt all their Temptations, and ſupport them under all their Agonies, and is very careful that they ſhall in no wiſe be tempted above what they are able.</p>
+            <p n="2">2. <hi>He takes order thet they ſhall die in peace;</hi> whatever Troubles they have been which they have met with in their lives, yet they ſhall meet perfect peace in their Death, <hi>Pſal. 37. 37. Take notice of the perfect man, mark the upright, for the latter end of that man is peace.</hi> Death comes not armed with a ſting againſt them, but the ſting is taken out, and the poy<g ref="char:EOLhyphen"/>ſon of it removed, <hi>1 Cor. 15. 55. Oh Death! where is thy ſting?</hi> it comes not as an Officer of Juſtice to Arreſt them, but as a friendly Meſſenger to invite them into their Fathers preſence, to the Court of a reconciled God, and tender-hearted Fa<g ref="char:EOLhyphen"/>ther, and the kind embraces of a loving Redeemer.</p>
+            <p n="3">3. <hi>He orders them ſo to die as to leave a ſweet remembrance behind them.</hi> Wicked men poſſibly may endeavour, by throwing dirt at them, to blemiſh their Names, and yet God often makes them ſpeak well of his dead <hi>Saints,</hi> and to build the Tombs of the Prophets whom they have killed: But however, in the hearts of the faithful they have an honoura<g ref="char:EOLhyphen"/>ble eſteem, a worthy Monument, <hi>Pſal. 12. 6. The Righteous ſhall be in everlaſting remembrance.</hi> Prov. 10. 7. <hi>The memory of of the juſt is bleſſed.</hi>
+            </p>
+            <p n="3">
+               <pb n="10" facs="tcp:44423:7"/>3. <hi>In the care which he takes of them after their death:</hi> thoſe that were dear to us in their lives, are not eaſily forgotten by us when they are dead, nor are the <hi>Saints</hi> by God, but effe<g ref="char:EOLhyphen"/>ctually iaken care for; For,</p>
+            <p n="1">1, <hi>Their duſt is not reputed by him as common dust, but they are laid up by his care, kept under his eye, and preſerved by his powerful providence, as precious Relicks, till they be brought forth again in the day of Reſurrection.</hi> He lays them to reſt in peace and ſafety, <hi>Iſai. 57. 2. They ſhall reſt in their Beds;</hi> their Bodies which were made Temples of the Holy Ghoſt, and Members of Jeſus Chriſt, are not now rejected as <hi>worthleſs things,</hi> but are laid up in God's Cabinet, and that with far more tender care then we do the moſt eſtimable jewel; and Hence their Fleſh reſteth in hope, <hi>Pſal.</hi> 16. 9. dying <hi>Belie<g ref="char:EOLhyphen"/>vers</hi> can in Faith recommend their dead <hi>Bodies</hi> to the Grave in joyful expectation of an happy return, and all the rage of Men and Devils ſhall never be able to prevent this.</p>
+            <p n="2">2. <hi>Their precious Souls, dearly beloved of the Lord Jeſus, are ſafely guarded, and ſurely tranſported to a place of eternal honour and reſt:</hi> The Saints die to go to, and to be with Chriſt which is beſt of all; they die that they may live for ever. When a Saint of God dies, there is a glorious Convoy of bleſſed Angels; ſent from Heaven to attend his departure, the Angels carried <hi>Lazarus</hi> into <hi>Abraham's</hi> boſom, <hi>Luk.</hi> 16, 22. and this is done both for their honour, and their ſafety; they carry their Souls out of the reach of Men and Devils, into the preſence Chamber of the great God, to him in whoſe preſence is fulneſs of joys, and at whoſe right hand are plea<g ref="char:EOLhyphen"/>fures for evermore, to receive an incorruptible and never ſa<g ref="char:EOLhyphen"/>ding Crown of Glory; and though Legions of Devils en<g ref="char:EOLhyphen"/>terpoſe, and ſeek to ſtop up the way, they ſhall never be able to obſtruct their paſſage, nor from that time for evermore do them any the leaſt diſpleaſure. Thus precious in Gods ac<g ref="char:EOLhyphen"/>count is the death of every one of his Saints.</p>
+            <p n="3">3. <hi>Whence it comes to paſs that it is ſo?</hi>
+            </p>
+            <pb n="11" facs="tcp:44423:7"/>
+            <p>
+               <hi>A.</hi> It Flows not from any merit of theirs; a Saint aſpires not to chalenge any favour from God upon the ſcore of his own deſervings, but when he hath done all, acknowledgeth himſelf an unprofitable Servant, and his beſt Righteouſneſs to be but as filthy Rags: but it proceeds from Gods infi<g ref="char:EOLhyphen"/>nitely free Grace, and if we look upon that, we ſhall find manifold reaſon why the Saints Death is precious in God's ſight: <hi>viz.</hi>
+            </p>
+            <p n="1">1. <hi>Becauſe he hath loved them in Chriſt with an everlaſting Love:</hi> where there is love, it renders that object beloved, precious to him that loves it; though another can diſcern no excellency or worthineſs in it, and may thereupon won<g ref="char:EOLhyphen"/>der what he loves it for, yet love apprehends it to be of worth: now God hath loved his <hi>Saints</hi> from everlaſting, <hi>Jer.</hi> 31. 3. and inaſmuch as that which is everlaſting, is by conſequence immutable; hence this love of his abides to, in, and after death, and makes it precious.</p>
+            <p n="2">2. <hi>Becauſe they are his:</hi> Propriety and Peculiarity engage the care, and exite the affections to a ſuitable proportion un<g ref="char:EOLhyphen"/>to the Subject; the <hi>Saints</hi> are God's <hi>Peculium,</hi> they are cal<g ref="char:EOLhyphen"/>led <hi>his Anointed, and his Prophets,</hi> Pſal. 105. 15. they are firm<g ref="char:EOLhyphen"/>ly and cloſely united unto him through Chriſt, and Death doth not diſſolve that indiſſoluble Bond; dead Believers con<g ref="char:EOLhyphen"/>tinue in union with Chriſt, and ſhall his own die then, and he not be deeply concerned in it? it cannot be.</p>
+            <p n="3">3. <hi>Becauſe they are Saints:</hi> They are Holy Ones, ſuch as are ſanctified by his Grace, and ſo are made precious: there is a Worth put upon, and a Worth put into a Believer that makes him more precious than the Gold of <hi>Ophir;</hi> it makes him a Jewel, a Pearl of great price; and for that reaſon he muſt not be loſt, but bound up, <hi>Mal. 3. 17. They ſhall be mine, ſaith the Lord, in that day when I make up my Jewels.</hi>
+            </p>
+            <p n="4">4. <hi>Becauſe the Death of the Saints is of great and high con<g ref="char:EOLhyphen"/>cern:</hi> For,</p>
+            <p n="1">1. <hi>There is much of the Glory of God is concerned in and about</hi>
+               <pb n="12" facs="tcp:44423:8"/> 
+               <hi>their Death:</hi> they do not only glorifie him in their <hi>Lives,</hi> but in their <hi>Death</hi> too, <hi>Joh. 21. 19. This he ſaid, ſignifying by what Death he ſhould glorifie God.</hi> Never doth the Box of their ſweet Ointments give a better favour, than when the Caſe is broken: the <hi>Saints</hi> do not go out like a Candle in a ſtink<g ref="char:EOLhyphen"/>ing Snuff, but they aſcend like <hi>Frankincenſe</hi> or <hi>ſweet Incenſe,</hi> in a Cloud of fragrant Smoke.</p>
+            <p n="2">2. <hi>Their eternal being in another World bears a Relation to their Death:</hi> Of all the changes which they paſs through, this is in ſome reſpect the greateſt: The Death of Believers is appointed to be the narrow paſſage through which they are to be conducted from their Earthly Cottage to a Palace of Kingly Glory: It is the Ceremony in which an honoura<g ref="char:EOLhyphen"/>ble diſcharge is given to theſe faithful <hi>Souldiers</hi> from their ſore Warfare here below, to ride home to their City in tri<g ref="char:EOLhyphen"/>umph: It is their diſ-banding from the Church Militant, to go to and become <hi>Members</hi> of the great <hi>Sanhedrim</hi> of the Church Triumphant, and this is a great and a notable tranſ<g ref="char:EOLhyphen"/>action and muſt needs therefore be precious, and taken ſuch care for, as that it may anſwer in glory to the great deſign of it.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>SE I. For Information:</hi> We may hence collect,</p>
+            <p n="1">1. That the Title of a Saint is a moſt honourable Title: or that it is the greateſt honour and priviledge in the World to be a Saint; this is the honour that all <hi>His Saints</hi> have, that their Death is precious in His ſight: and there is no Worldly Title, though never ſo glittering and glorious, that involves in it ſuch a priviledge as this is: they that have them may live in great ſplendor among Men, and be follow<g ref="char:EOLhyphen"/>ed with the ſtately Solemnities of Funeral Pomp to their Houſe of Darkneſs: but in God's account (which is alone to be ſet by) they are in their Deaths of no more value than ſo many Beaſts, <hi>Pſal. 94. 20. Man that is in honour, and under<g ref="char:EOLhyphen"/>ſtandeth not, is like the Beaſts that periſh.</hi> This Dignity is not annexed or appropriated to Imperial <hi>Crowns,</hi> to <hi>Robes of</hi>
+               <pb n="13" facs="tcp:44423:8"/> 
+               <hi>State,</hi> or the <hi>Thrones of Kingdoms,</hi> but only to a Saint: who then would not labour to be of that number?</p>
+            <p n="2">2. That <hi>God's Saints ſerve a good Maſter:</hi> Thoſe that ſerve Earthly <hi>Potentates,</hi> though for a while they may be had in high eſteem with them, and be greatly ſet by, yet ſeldom but they have their <hi>quietus eſt</hi> before they die; when they grow unapt for Service, it is thought high time to lay them by: however when Death comes they are then leſt and ſoon forgotten: but the Servants of the moſt High are never forgotten; God that loved them living, loves them dy<g ref="char:EOLhyphen"/>ing too: It was a lamentable, but true ſaying of a great, yet miſerable Prelate; <hi>If I had ſerved God as faithfully as I have done my King he would not now have left me:</hi> what Fools then and Mad-men are they that relinquiſh the ſervice of God, to ſerve the luſts of Men, who care but to ſerve their own turns of them, and then will relinquiſh them?</p>
+            <p n="3">3. <hi>That Death cannot make a Believer miſerable, but muſt needs render him happy.</hi> Thoſe precious thoughts which God hath conceived in his own breaſt for dying <hi>Saints,</hi> cannot chuſe but break forth into ſuitable operations for them; if their death be <hi>precious in God's ſight,</hi> it muſt needs bring forth pre<g ref="char:EOLhyphen"/>cious fruits for them, and ſuch as ſhall fill them with perfect Felicity. Hence of all the Men in the World the Saint is the Man that hath the leaſt needof being afraid to die: this glorious promiſe is a Believers plentiful ſecurity againſt all the frightful menaces of the King of Terrors; and it may light a Child of God into and through this dark valley, <hi>Pſal. 16. 9, 10. Therefore my heart rejoyceth, and my Glory is glad</hi> &amp;c.</p>
+            <p n="4">4. <hi>That the Death of a Saint calls for ſolemn and ſerious ob<g ref="char:EOLhyphen"/>ſervation by the living.</hi> It is an awful thing for a Righteous man to die, and no man lay it to heart; for the Godly, to be taken away, and none conſider it: if the <hi>Saints</hi> death be ſo precious in the ſight of God, then it is certain that there are great and weighty reaſons in the very circumſtances of their dying which Men ought to regard: there is a great
+<pb n="14" facs="tcp:44423:9"/> change made in that place from whence the pooreſt and meaneſt Saint is removed: there is no ſuch deſolation and impoveriſhing brought upon a Land, as when Death comes commiſſioned by God, to ſieze, gather up, and carry away from us thoſe Jewels; one of them is of more worth than ten thouſand of wicked Men, and a greater loſs it is (whe<g ref="char:EOLhyphen"/>ther Men will believe it or no) to be ſtript of one of them, then of a multitude of thoſe unprofitable things that cumber the Ground, and are a burden to the Earth they tread upon.</p>
+            <p>
+               <g ref="char:V">Ʋ</g>SE II. <hi>For Exhortation:</hi> Learn we hence theſe Practical Leſſons.</p>
+            <p n="1">1. <hi>When the Saints die let us mourn:</hi> And there is no greater Argument to be found that we ſhould excite our ſelves to mourn by, then the remembrance that they were <hi>Saints:</hi> it ſhould more effect our hearts at the thoughts of this that they were <hi>Saints,</hi> then that they were our Father, or Mother, or Brethren, or neareſt or deareſt Friends, for this is that which makes their loſs to be greater than any o<g ref="char:EOLhyphen"/>ther Relation doth or can; others are natural, but theſe are pious Tears that are ſhed upon this account: Another Man may be a private loſs when he is gone, his Family or his Neighbours, or Conſorts may miſs him; but a <hi>Saint,</hi> though he be a private Chriſtian, is yet, when he dies a, pub<g ref="char:EOLhyphen"/>lick loſs, and deſerves the <hi>tears of Iſrael;</hi> how much more than when he hath been a Saint providentially put into a ca<g ref="char:EOLhyphen"/>pacity of being, and by Grace helpt and enabled to be a pub<g ref="char:EOLhyphen"/>lick benefit by the Orb he moved in? when a Saint <hi>Dies</hi> there is manifold ground of Mourning; there is then a Pillar pluckt out of the Building, a Foundation Stone taken out of the Wall, a Man removed out of the Gap; and now it is to be greatly feared that God is departing, and <hi>Calamities</hi> are coming, and are not theſe <hi>things</hi> to be lamented?</p>
+            <p n="2">2. <hi>When the Saints die beware of irregular Mourning:</hi> though we are to lament their Death, yet we muſt beware
+<pb n="15" facs="tcp:44423:9"/> that it be after the right manner: a dying Saint may ſay to his weeping Friends that ſtand round about, wringing their hands, after the ſame Language that Chriſt did to thoſe weeping Women, <hi>Luk. 23. 27, 28, 29. Daughters of Jeruſalem, weep not for me, but for your ſelves, and your Children,</hi> &amp;c. It is we and not they that are indangered and endamaged by it: we may therefore weep for our ſelves, and there is good reaſon for it, but to mourn for them is ſuperfluous. Is their Death precious in Gods? let it not be miſerable in our eſteem: and tell me you whoſe hearts throb, and eyes run over with ſorrow, is it not a precious thing to be aſleep in Jeſus? to ly in the lap of his providence, and reſt from the labours and ſorrows of a troubleſome World? to be laid out of the noiſe of the whiſtling Winds, and feel none of the impetuoſity of thoſe Storms and Tempeſts that are blowing abroad? to be out of the ſight and hearing of the rolling and daſhing waves of the roaring Sea? to ſleep out the reſt of the tem<g ref="char:EOLhyphen"/>peſtuous night of this World, ſtanding in the inner Cham<g ref="char:EOLhyphen"/>ber of Gods Providence, in anſwer to that ſweet invitation? <hi>Iſai. 26. 22. Come my People, enter into thy Chambers, and ſhut thy doors about thee,</hi> &amp;c. To ly in Chriſt's Boſom, and be raviſhed with his deareſt love, and moſt intimate Embraces? to ſee none of thoſe ſorrowful changes that are coming on the places which they once lived in, nor any more to be within the reach of the calumny and rage of their ſpiteful Enemies? ſurely theſe Notes do not ſuit with an Elegiack ſtrain; and yet this is the comfort which is given them to feed upon, whoſe dead Relations and Friends were Saints upon the earth.</p>
+            <p n="3">3. <hi>Is the death of the Saints precious in Gods ſight? let it be ſo in ours too.</hi> They are not to be accounted for contemp<g ref="char:EOLhyphen"/>tible things which God ſets an high value upon; and it is our wiſdom to think and ſpeak of perſons and things as God doth: we ought not to ſlight the death of the righteous, and ſpeak meanly of it, as of a thing that is little momentous: I
+<pb n="16" facs="tcp:44423:10"/> am ſure their arrival at Heaven is there taken notice of as a thing worthy of obſervation; and ſhall not their departure be regarded? they are welcomed into the Palace of delight with <hi>Panegyricks;</hi> and ſhall then be hence diſmiſſed with no more but a ſorry ſaying, there is now a good Man gone, and he will be miſſed in the Family, or the Church to which he once belonged? we ſhould embalm the memory of the Saints with the ſweet ſmelling Spices that grew in their own Gardens, and pick the chiefeſt Flowers out of thoſe Beds to ſtrew their Graves withal; we ſhould remember and make mention of them with honourable thoughts and words: and though it be now grown a Nick-name of contempt among wicked and prophane Men, yet count it the moſt orient Jewel in their Crown, the moſt odoriferous and pleaſant Flower in their Garland, that we can ſay of them that they lived and died Saints; all other Eſchutcheons will either wear away, or be taken down, every other monument will become old, and grow over with the Moſs of time, and their Titles, though cut in Braſs, will be Canker-eaten and illegible: this onely will endure and be freſh and Flouriſhing, when Marble it ſelf ſhall be turned into common duſt.</p>
+            <p>Such an one it is whom we have now loſt; and Oh that we knew how great a loſs we have ſuſtained in him! they are little things to be put into the account, and weigh but light in the commendations we have to give him; to ſay, This Government hath loſt a Magiſtrate; this Town hath hath loſt a good Benefactor; this Church hath loſt an ho<g ref="char:EOLhyphen"/>nourable Member; his Company hath loſt a worthy Cap<g ref="char:EOLhyphen"/>tain; his Family hath loſt a loving and kind Husband, Fa<g ref="char:EOLhyphen"/>ther, Maſter; the Poor have loſt a Liberal and Merciful Friend; that nature had furniſhed him with a ſweet and affa<g ref="char:EOLhyphen"/>ble Diſpoſition, and even temper; that Providence had gi<g ref="char:EOLhyphen"/>ven him a proſperous and Flouriſhing Portion of this Worlds Goods; that the love and reſpect of the People had lifted him up to places of honour and preferment; this, this out<g ref="char:EOLhyphen"/>ſhines
+<pb n="17" facs="tcp:44423:10"/> them all; that he was a Saint upon Earth; that he li<g ref="char:EOLhyphen"/>ved like a Saint here, and died the precious Death of a Saint, and now is gone to reſt with the Saints in glory: this hath raiſed thoſe Relicks of his above common duſt, and made them precious duſt. When Conſcience of duty ſtimulated me to perform my part of his Exequies, and put me upon it to do him honour at his Death; methoughts Juſtice re<g ref="char:EOLhyphen"/>quired, and envy it ſelf would not nibble at this Character: and if the Tree be to be known by its Fruits, his works ſhall praiſe him in the Gates: For his conſtant and cloſe ſecret Communion with God (which none but Hypocrites are wont to do with the ſound of a Trumpet) ſuch as were moſt in<g ref="char:EOLhyphen"/>timate with him, have known and can teſtifie: the care which he had to keep up conſtant Family Worſhip, in read<g ref="char:EOLhyphen"/>ing of the Scriptures, and praying in his Family (from which no buſineſs publick or private could divert him) was almoſt now unparalleld; the honourable reſpect he bore to God's holy Ordinances, by diligently attending upon them, and eſteeming highly of God's Servants for their work ſake, and care that he uſed to live the Truths which he heard from time to time, was very ſingular: the exemplarineſs of his Life and Converſe among Men, and the endeavours which he uſed to ſhew forth the Graces of the Spirit, not being a<g ref="char:EOLhyphen"/>ſhamed of Chriſt, nor being willing to be a ſhame unto him; let all that knew him bear witneſs of: his meek boldneſs in reproving Sin, and gentle faithfulneſs in endeavouring to win Sinners as he had opportunity, is known to ſuch as lay in his way: His conſtancy in all theſe whiles times have changed, and many Profeſſors have degenerated, when he ſtrove to grow better as the times grew worſe, will ſpeak the ſincerity of his Profeſſion: his living above the World, and keeping his heart diſentangled, and his mind in Heaven, in the midſt of all outward occaſions and urgency of Buſineſs, beſpake him not to be of this World, but a Pilgrim on the Earth, a Citizen of Heaven: In a word, he was a true <hi>Natha<g ref="char:EOLhyphen"/>niel.</hi>
+            </p>
+            <pb n="18" facs="tcp:44423:11"/>
+            <p>But God hath taken him from us, and by this ſtroak given us one more ſad prognoſtick of miſery a coming: when there are but a few Saints in the World, and thoſe die apace too, what is to be thought to be at the door? I dare ſay his Death was precious in Gods ſight, and he had ſome holy end in taking him away juſt now, who might probably have li<g ref="char:EOLhyphen"/>ved many years, and done much more ſervice for God in his Generation: I ſhall not make it my work to Propheſie; the Lord grant we do not all know it too ſoon to our coſt. Mean time let us have ſuch in remembrance, and labour to be followers of them who through Faith and Patience do now inherit the promiſes, and that will be the beſt way to divert the Omen: Let us account the <hi>Saints</hi> precious whiles they live, and God will not begrutch them to us: but if we by contempt, obloquy, and wickedly grieving their <hi>Righteous Souls,</hi> make their lives a burden to them; if they cannot live in honour among Men, they ſhall die in favour with God, and he will make their death a precious gain to them, though it be a direſul preſage of a great inundation of ſad Calamities coming upon thoſe whom they leave behind them.</p>
+         </div>
+         <div xml:lang="lat" type="poem">
+            <pb n="19" facs="tcp:44423:11"/>
+            <head>IN OBITUM LUCTUOSISSIMUM VIRI VERE GENEROSI, PII, PLURIMIS<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> ALIIS NOMI<g ref="char:EOLhyphen"/>NIBUS HONORANDI <hi>JOHANNIS H<g ref="char:V">Ʋ</g>LL</hi> ARMIGERI, Cum Dignitate pari degentis, in Summo Dynaſtarum <hi>NOV-ANGLOR<g ref="char:V">Ʋ</g>M</hi> ordine, dum vixit, Pius.</head>
+            <lg>
+               <l>
+                  <hi>NEc ver perpetuum voluit Deus eſſe; perennem</hi>
+               </l>
+               <l>
+                  <hi>Noluit oeſtatem: ſed &amp; Autumni quoque tempus</hi>
+               </l>
+               <l>
+                  <hi>Cedere; quo juſſit ver, oeſtatemque, coronam,</hi>
+               </l>
+               <l>
+                  <hi>Flores &amp; fruges, deponere; cum<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> nivali</hi>
+               </l>
+               <l>
+                  <hi>Vinclo ut triſtis Hyems couſtringeret omnia: Quo me</hi>
+               </l>
+               <l>
+                  <hi>Fert animus vereor, ne Tu quo<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> terra</hi> Nov' Angla,</l>
+               <l>
+                  <hi>Experiare vices Anni; cui proeteriere</hi>
+               </l>
+               <l>
+                  <hi>Floribus ornatum ver, &amp; tua frugibus oeſtas.</hi>
+               </l>
+               <l>
+                  <hi>Quamque diu Autumni nobis inimica fuere</hi>
+               </l>
+               <l>
+                  <hi>Tempora! dum Proceres divos, ſanctoſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Prophetas,</hi>
+               </l>
+               <l>
+                  <hi>Innumeroſque pios, meſſem nec adhuc ſatis amplam,</hi>
+               </l>
+               <l>
+                  <hi>Ipſe Deus reputans demeſſuit: <g ref="char:V">Ʋ</g>nde</hi> Nov' <hi>Angli</hi>
+               </l>
+               <l>
+                  <hi>Noſtratem hunc Procerum comitem, ſocium<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> fidelem</hi>
+               </l>
+               <l>
+                  <hi>Lugent; (Quem Deus hinc, jam nunc ſubduxit in altum</hi>
+               </l>
+               <l>
+                  <hi>Aethera) conclamant; merito lugendus es, H<g ref="char:V">Ʋ</g>LLI:</hi>
+               </l>
+               <l>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>nus de fulcris, ad propugnacula fixis,</hi>
+               </l>
+               <pb n="20" facs="tcp:44423:12"/>
+               <l>
+                  <hi>Fixus eras: populi ſuffragia de meruiſti;</hi>
+               </l>
+               <l>
+                  <hi>Tot tantiſqne tuis virtutibus emicuiſti:</hi>
+               </l>
+               <l>
+                  <hi>Moribus a puero ingenuis te novimus omnes;</hi>
+               </l>
+               <l>
+                  <hi>Signa dedit pubes, jam tum, virtutis adultoe,</hi>
+               </l>
+               <l>
+                  <hi>Cum<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> annis ſuccrevit: &amp; hinc proeluſit honori.</hi>
+               </l>
+               <l>
+                  <hi>Gratus honos populi: ſed longe gratior illo</hi>
+               </l>
+               <l>
+                  <hi>Eſt virtutis honos: hoc te celebravit honore</hi>
+               </l>
+               <l>
+                  <hi>Plebs pia; quem norunt vitiorum labe carentem,</hi>
+               </l>
+               <l>
+                  <hi>Correptum<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ſacrae-ſtudii virtutis amore;</hi>
+               </l>
+               <l>
+                  <hi>Sollicitum, ſiquis, fidei, populique ſalutis.</hi>
+               </l>
+               <l>
+                  <hi>Sed quid ego? quod iners auſim, ſine divite vena</hi>
+               </l>
+               <l>
+                  <hi>Ingenii,</hi> &amp;c. <hi>cedo: ſed non ſine crimine cedam</hi>
+               </l>
+               <l>
+                  <hi>Ingratoe mentis, ſua ſi proeconia laudis</hi>
+               </l>
+               <l>
+                  <hi>Supprimo; cum mihi per quaſi ter duo luſtra fuiſſet</hi>
+               </l>
+               <l>
+                  <hi>Dulcis amicus; &amp; hinc rerum tutela mearum:</hi>
+               </l>
+               <l>
+                  <hi>Quique bonos alios mihi conciliavit amicos:</hi>
+               </l>
+               <l>
+                  <hi>Veſtibus &amp; nummis animum relevavit egentis:</hi>
+               </l>
+               <l>
+                  <hi>Sic cymbam prohibens, tenuem mihi, mergier undis.</hi>
+               </l>
+               <l>
+                  <hi>Sed tamen ingratus, mihi dulcis Amice, videbor,</hi>
+               </l>
+               <l>
+                  <hi>Si tua in anguſto, rerum benefacta mearum</hi>
+               </l>
+               <l>
+                  <hi>Limite concludam. Tua facta benigna fuere</hi>
+               </l>
+               <l>
+                  <hi>Pauperibus, Viduis, chariſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> parentibus orbis</hi>
+               </l>
+               <l>
+                  <hi>Subſidio ingenti. Ah quanto Reſ<g ref="char:EOLhyphen"/>publica damno</hi>
+               </l>
+               <l>
+                  <hi>Mulctatur! quantis hoec triſtia tempora damnis,</hi>
+               </l>
+               <l>
+                  <hi>Rebus in anguſtis mulctantur! cum Deus ipſe</hi>
+               </l>
+               <l>
+                  <hi>Noſtris infenſus vitiis, hunc ſuſtulit ad ſe,</hi>
+               </l>
+               <l>
+                  <hi>Hunc juſtum<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> plum<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> piis Chriſto<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> fidelem;</hi>
+               </l>
+               <l>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>t ſit in oeternum, cum ſanctis, incola coeli.</hi>
+               </l>
+               <l>
+                  <hi>Sic fuit Autumni facies tibi, Terra Novangla,</hi>
+               </l>
+               <l>
+                  <hi>O ſi non nobis concreſcant frigore brumoe,</hi>
+               </l>
+               <l>
+                  <hi>Res ſacroe &amp; celebres! ſed nobis gratia Chriſti</hi>
+               </l>
+               <l>
+                  <hi>Perpetuo ſervet ſanas, at<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> inviolatas.</hi>
+               </l>
+            </lg>
+            <closer>
+               <signed>ELIJAH CORLET.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:44423:12"/>
+         </div>
+      </body>
+   </text>
+</TEI>
